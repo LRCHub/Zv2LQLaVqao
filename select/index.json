@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "宝石を宿す",
+  "base_artist": "Imy",
+  "createdAt": "2026-03-26T01:24:41.999687Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宝石を宿す (feat. 秋奈)",
+      "artist": "Imy",
+      "has_synced": false,
+      "path": "select/pl_01_宝石を宿す_(feat._秋奈)_Imy.txt"
+    }
+  ]
+}
